@@ -47,19 +47,23 @@ It doesn’t guarantee you’ll complete them all 😉, but it will make trackin
 
 ---
 
-## 💻 Run Locally
+## 🧑‍💻 Author
 
-```bash
-> Clone the repo
-git clone https://github.com/your-username/todo-list.git
+**Saumya Dwivedi**  
+Aspiring Full Stack Developer | Problem Solver 
 
-> Go to the project folder
-cd todo-list
-
-> Open in browser
-index.html
+[LinkedIn](https://www.linkedin.com/in/saumya-dwivedi-5b388b314) • [GitHub](https://github.com/saumyadwivedi071)
 
 ---
+
+## 🤝 Let’s Connect
+
+Whether you're a recruiter, developer, or fellow learner—  
+I'd love to connect and collaborate on exciting opportunities!
+
+---
+
+⭐ *If you like this project, don’t forget to give it a star!*
 
 
 
