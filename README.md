@@ -42,7 +42,7 @@ It doesn’t guarantee you’ll complete them all 😉, but it will make trackin
 ---
 
 ## 📸 Preview
-![To-Do List Screenshot](<img width="1279" height="634" alt="TO-DO-LIST" src="https://github.com/user-attachments/assets/fc8eb52d-0f04-4a28-99a3-6afe06824994" />)  
+![To-Do List Screenshot] <img width="1279" height="634" alt="TO-DO-LIST" src="https://github.com/user-attachments/assets/fc8eb52d-0f04-4a28-99a3-6afe06824994" />  
 
 ---
 
