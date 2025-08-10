@@ -65,7 +65,7 @@ cd todo-list
 # Open in browser
 index.html
 
----
+------
 
 ## 🙏🏻 Credits
 Inspired by simple productivity apps & colorful UI trends.
