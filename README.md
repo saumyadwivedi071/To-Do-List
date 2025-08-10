@@ -47,38 +47,20 @@ It doesn’t guarantee you’ll complete them all 😉, but it will make trackin
 
 ---
 
-## 📽 Sample Demo
-
-📂 *demo.mp4* <!-- Replace with actual file if available -->
-
----
-
 ## 💻 Run Locally
 
 ```bash
-# Clone the repo
+> Clone the repo
 git clone https://github.com/your-username/todo-list.git
 
-# Go to the project folder
+> Go to the project folder
 cd todo-list
 
-# Open in browser
+> Open in browser
 index.html
 
-
-
 ---
 
-## 🙏🏻 Credits
 
-Inspired by simple productivity apps & colorful UI trends.
-
----
-
-## 👦 Developed By
-
-**Saumya Dwivedi**
-
----
 
 
