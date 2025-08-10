@@ -1,60 +1,77 @@
-📝 To-Do List 🚀
-HTML Badge CSS Badge JavaScript Badge
+# 📝 To-Do List 🚀
 
-Overview 👀
-<!-- Replace with your screenshot file -->
+![HTML Badge](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 
-✏️ Add new tasks easily
+---
 
-🎨 Every task has a different background color
+## 📌 Overview 👀
 
-❌ One-click delete button (round cross in the middle)
+> A **colorful, minimal, and responsive** To-Do List app to make task tracking fun & easy.  
+> Works on all devices with a smooth user experience.  
 
-📱 Responsive mobile-first design
+---
 
-⚡ Lightweight and fast (pure HTML, CSS, JavaScript)
+## ✨ Features
 
-🖌 Clean & colorful UI for better readability
+- ✏️ **Add new tasks easily**
+- 🎨 **Each task has a random background color**
+- ❌ **Round delete button in the center**
+- 📱 **Mobile-first responsive design**
+- ⚡ **Lightweight – pure HTML, CSS, JS**
+- 🖌 **Clean & colorful UI for better readability**
 
-What is To-Do List 🤔
-The To-Do List App is a simple, colorful, and interactive web application to manage your daily tasks.
-It helps you keep track of things you need to do with ease, fun, and a visually pleasing interface.
+---
 
-It doesn’t guarantee you’ll get everything done 😉, but it will make tracking them a lot more enjoyable.
+## 💡 What is To-Do List? 🤔
 
-Dependencies 🗃
-HTML5 – Structure of the app
+The **To-Do List App** is a simple, colorful, and interactive web application to manage your daily tasks.  
+It helps you keep track of things you need to do with **ease, fun, and a visually pleasing interface**.
 
-CSS3 – Styling & layout
+It doesn’t guarantee you’ll complete them all 😉, but it will make tracking them **much more enjoyable**.
 
-JavaScript (ES6) – Functionality & interactions
+---
 
-Deployed Website 🌎
-https://your-todo-list-demo-link.com/ <!-- Replace with your link -->
+## 🗃 Dependencies
 
-Sample Demo 📽
-📂 demo.mp4 <!-- Replace with actual file if available -->
+- **HTML5** – App structure  
+- **CSS3** – Styling & layout  
+- **JavaScript (ES6)** – Functionality & interactions  
 
-Run Locally 💻
-Clone the repo
+---
 
-bash
-Copy
-Edit
+## 🌎 Deployed Website
+
+🔗 [Live Demo](https://your-todo-list-demo-link.com) <!-- Replace with your actual link -->
+
+---
+
+## 📽 Sample Demo
+
+📂 *demo.mp4* <!-- Replace with actual file if available -->
+
+---
+
+## 💻 Run Locally
+
+```bash
+# Clone the repo
 git clone https://github.com/your-username/todo-list.git
-Change the folder location to your project folder
 
-bash
-Copy
-Edit
+# Go to the project folder
 cd todo-list
-Open the index.html file in your browser
 
-Credits 🙏🏻
-Inspired by simple productivity apps & colorful UI design trends.
+# Open in browser
+index.html
 
-Developed By 👦
+---
+
+## 🙏🏻 Credits
+Inspired by simple productivity apps & colorful UI trends.
+
+---
+
+## 👦 Developed By
 Saumya Dwivedi
-
-
 
